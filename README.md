@@ -350,7 +350,7 @@ Chatbot
   })();
 
   pupOnline = function() {
-    return API.sendChat("/me: chatbot ON corra pras colina!");
+    return API.sendChat("/em: ChatBot ON Corre Negada!");
   };
 
   populateUserData = function() {
