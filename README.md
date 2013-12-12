@@ -58,7 +58,7 @@ Chatbot
       curates: 0
     };
 
-    settings.prototype.pupScriptUrl = 'https://raw.github.com/Brutos/chatbotvm/master/.gitignore';
+    settings.prototype.pupScriptUrl = 'https://github.com/igorce9/Chatbot/master/README.md';
 
     settings.prototype.afkTime = 15 * 60 * 1000;
 
