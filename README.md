@@ -1542,7 +1542,7 @@ Chatbot
     whyMehCommand.prototype.functionality = function() {
       var msg;
       msg = "/em acaba de ativar o modo cotas! ";
-      msg += "Roubou sua vaga na faculdade, suas mulheres e sua vez na cabine de DJ";
+      msg += "Roubou sua vaga na faculdade, suas mulheres";
       return API.sendChat(msg);
     };
 
